@@ -1,5 +1,5 @@
 {
-    "name": "albocode/ccatphp-sdk",
+    "name": "dariob/ccatphp-sdk",
     "description": "Cheshire Cat PHP Sdk",
     "type": "library",
     "require": {
