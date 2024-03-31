@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "guzzlehttp/guzzle": "^7.0",
-        "phrity/websocket": "^2.0",
+        "phrity/websocket": "^2.2",
         "symfony/serializer": "^7.0",
         "symfony/property-access": "^7.0",
         "phpdocumentor/reflection-docblock": "^5.3"
